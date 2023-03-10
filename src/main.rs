@@ -1,3 +1,6 @@
+mod function;
+// mod Datatype;
+
 fn main() {
     let x= 10;
     println!("this is the value of x: {}" , x);
