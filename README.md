@@ -1,2 +1,2 @@
 # Rust-class-std
-Rust class for student
+## Rust class for student
